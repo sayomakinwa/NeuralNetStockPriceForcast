@@ -1,0 +1,6 @@
+c:\users\sayo\documents\visual studio 2013\Projects\NeuralNetStockPriceForcast\NeuralNetStockPriceForcast\bin\Debug\NeuralNetStockPriceForcast.exe.config
+C:\Users\Sayo\documents\visual studio 2013\Projects\NeuralNetStockPriceForcast\NeuralNetStockPriceForcast\bin\Debug\NeuralNetStockPriceForcast.exe
+C:\Users\Sayo\documents\visual studio 2013\Projects\NeuralNetStockPriceForcast\NeuralNetStockPriceForcast\bin\Debug\NeuralNetStockPriceForcast.pdb
+C:\Users\Sayo\documents\visual studio 2013\Projects\NeuralNetStockPriceForcast\NeuralNetStockPriceForcast\obj\Debug\NeuralNetStockPriceForcast.csprojResolveAssemblyReference.cache
+C:\Users\Sayo\documents\visual studio 2013\Projects\NeuralNetStockPriceForcast\NeuralNetStockPriceForcast\obj\Debug\NeuralNetStockPriceForcast.exe
+C:\Users\Sayo\documents\visual studio 2013\Projects\NeuralNetStockPriceForcast\NeuralNetStockPriceForcast\obj\Debug\NeuralNetStockPriceForcast.pdb
